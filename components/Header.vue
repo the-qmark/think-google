@@ -103,23 +103,25 @@ $text-color: rgb(140, 0, 255);
   display: flex;
   justify-content: space-between;
   /*z-index: 51;*/
-  position: absolute;
+  // position: absolute;
+  margin-top: 0px;
   top: 0;
   left: 0;
   right: 0;
   // background-color: rgb(199, 214, 66);
 }
 
-.container {
-  //max-width: 1166px;
-  //max-width: 100%;
-
-  width: 1166px;
-  padding-left: 100px;
-  padding-right: 100px;
-  margin-left: auto;
-  margin-right: auto;
-}
+// .container {
+//   //max-width: 1166px;
+//   max-width: 100%;
+//   width: 1366px;
+//   padding-left: 100px;
+//   padding-right: 100px;
+//   margin-left: auto;
+//   margin-right: auto;
+//   background-color: rgb(117, 58, 58);
+//   box-sizing: border-box;
+// }
 
 .header__logo {
   margin: 0 60px 0 0;
