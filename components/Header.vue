@@ -152,6 +152,7 @@ ul {
 
 .header__nav-item {
   margin-right: 40px;
+  background-color: $bgc;
 }
 
 .header__nav-item a {
