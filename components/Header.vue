@@ -7,16 +7,16 @@
       <div class="header__nav">
         <ul class="header__nav-list">
           <li class="header__nav-item">
-            <a href="/">Schedule</a>
+            <a href="/Schedule">Schedule</a>
           </li>
           <li class="header__nav-item">
-            <a href="/">Speakers</a>
+            <a href="/Speakers">Speakers</a>
           </li>
           <li class="header__nav-item">
-            <a href="/">Participants</a>
+            <a href="/Participants">Participants</a>
           </li>
           <li class="header__nav-item">
-            <a href="/">Store</a>
+            <a href="/Store">Store</a>
           </li>
         </ul>
       </div>
