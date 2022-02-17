@@ -7,16 +7,16 @@
       <div class="header__nav">
         <ul class="header__nav-list">
           <li class="header__nav-item">
-            <a href="/Schedule">Schedule</a>
+            <NuxtLink to="/Schedule">Schedule</NuxtLink>
           </li>
           <li class="header__nav-item">
-            <a href="/Speakers">Speakers</a>
+            <NuxtLink to="/Speakers">Speakers</NuxtLink>
           </li>
           <li class="header__nav-item">
-            <a href="/Participants">Participants</a>
+            <NuxtLink to="/Participants">Participants</NuxtLink>
           </li>
           <li class="header__nav-item">
-            <a href="/Store">Store</a>
+            <NuxtLink to="/Store">Store</NuxtLink>
           </li>
         </ul>
       </div>
