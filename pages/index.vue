@@ -21,21 +21,8 @@ export default {
 }
 
 .intro_bg {
-  // background-image: url(~assets/images/intro_bg.svg);
-  //background: url("@/assets/images/intro_bg.svg");
-  // background-color: rgb(40, 199, 75);
-  // width: 500px;
-  // padding-top: 146px;
-
-  // width: 1266px;
-  //height: auto;
-  // background-position: center center;
-  // background-repeat: no-repeat;
-
-  // background-attachment: fixed;
-  // background-size: cover;
-  // margin-left: auto;
-  // margin-right: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .bg {
