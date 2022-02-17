@@ -12,6 +12,6 @@ body {
     padding-right: 100px;
     margin-left: auto;
     margin-right: auto;
-    background-color: rgb(231, 143, 143);
+    /* background-color: rgb(231, 143, 143); */
     box-sizing: border-box;
 }
